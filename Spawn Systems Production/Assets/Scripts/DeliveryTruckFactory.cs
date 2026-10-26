@@ -1,7 +1,7 @@
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "DeliveryTruckFactory", menuName = "Scriptable Objects/DeliveryTruckFactory")]
-public class DeliveryTruckFactory : ScriptableObject
+public class DeliveryTruckFactory : ScriptableObject, IVehicleFactory
 {
     [SerializeField] private GameObject deliveryTruckPrefab;
 
