@@ -490,10 +490,10 @@ MonoBehaviour:
   sportsCarFactoryAsset: {fileID: 11400000, guid: 18990be4030ef3f42b2d471aa7c70ae0, type: 2}
   deliverTruckFactoryAsset: {fileID: 11400000, guid: 5c8dc027178407542a6ea8f1e97f9820, type: 2}
   currentRequirements:
-    NumberOfWheels: 2
+    NumberOfWheels: 0
     Passengers: 0
     HasCargo: 0
-    HasEngine: 0
+    HasEngine: 1
   spawnPoint: {fileID: 825182556}
 --- !u!4 &1900035145
 Transform:
