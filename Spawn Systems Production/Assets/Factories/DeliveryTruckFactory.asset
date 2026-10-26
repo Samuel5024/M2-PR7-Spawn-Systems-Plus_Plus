@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13be294ba5ac3d74aa52a78cf9bdd80e, type: 3}
   m_Name: DeliveryTruckFactory
   m_EditorClassIdentifier: 
-  deliveryTruckPrefab: {fileID: 0}
+  deliveryTruckPrefab: {fileID: 2304634813070491680, guid: 79b4e211902f5ea4087d0974f1ed16f2, type: 3}

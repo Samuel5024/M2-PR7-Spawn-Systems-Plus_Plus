@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf4e507b14fbbe24c95b557ee8192928, type: 3}
   m_Name: BicycleFactory
   m_EditorClassIdentifier: 
-  bicyclePrefab: {fileID: 0}
+  bicyclePrefab: {fileID: 2525188103953102390, guid: 53e2ee09a7ca4704d8acdba0d828f8b3, type: 3}

@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13bd9277e5b5ff44f9936488f3d85b81, type: 3}
   m_Name: SportsCarFactory
   m_EditorClassIdentifier: 
-  sportsCarPrefab: {fileID: 0}
+  sportsCarPrefab: {fileID: 5965933392391770840, guid: a0173ad09026ef04daa73dfb5044855e, type: 3}
