@@ -492,8 +492,8 @@ MonoBehaviour:
   currentRequirements:
     NumberOfWheels: 0
     Passengers: 0
-    HasCargo: 0
-    HasEngine: 1
+    HasCargo: 1
+    HasEngine: 0
   spawnPoint: {fileID: 825182556}
 --- !u!4 &1900035145
 Transform:
